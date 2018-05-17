@@ -1,0 +1,1 @@
+(Egghorns<H[1400][0900]>)(JohnJohn<M[0900]><A[1400]><F[0900]>)(PetyrBrother<F[0100]>)(Joe<<F[0900][2000]>)(NotJoe<M[0900]>>)(JunkDog<M[0900][2100]>)(StrayDog<M[1100]><T[1100]><H[1100]>)(PetDog<M[0900]><W[1100]>)(McDoggyStyle<F[2100]>)(BullDog<M[0900]>T<[1100]>)(01Dog<W[0900]><W[1100]>)
